@@ -74,7 +74,7 @@ Maven
 
 1. Clone the Repository
 
-git clone https://github.com/Sirajuddin135/E-Commerce-Application.git
+git clone https://github.com/khang-81/SpringBoot.git
 
 2. Import into IDE (Spring Tool Suite / IntelliJ IDEA)
 
